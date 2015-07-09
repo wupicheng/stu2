@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jcabi">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/web/WEB-INF/jcabi" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/web/WEB-INF/jcabi" recursive="false" />
+  </library>
+</component>
